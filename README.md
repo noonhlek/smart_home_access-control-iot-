@@ -1,10 +1,10 @@
 # smart_home_access-control-iot-
 A Smart Access Control System using ESP32, Blynk, and Wokwi — featuring keypad authentication, time-based access, motion detection, and real-time IoT notifications.
-# Smart Access Control IoT System
+# Smart Home Access Control IoT System
 🧠 An innovative IoT-based Smart Access Control System that blends security, automation, and intelligence.
 
 ## Description
-A Smart Access Control System using ESP32, Blynk, and Wokwi — featuring keypad authentication, time-based access, motion detection, and real-time IoT notifications.
+A Smart Home Access Control System using ESP32, Blynk, and Wokwi — featuring keypad authentication, time-based access, motion detection, and real-time IoT notifications.
 
 ## Features
 - Time-based access restriction  
